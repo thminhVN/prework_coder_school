@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](http://minh-prework-coderschool.herokuapp.com/assets/prework_assignment.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
