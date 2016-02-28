@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough](https://www.dropbox.com/s/2sf3pj8p1xf2cxz/prework_assignment.gif?dl=0)
+![Video Walkthrough](https://raw.githubusercontent.com/thminhVN/prework_coder_school/blob/master/prework_assignment.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
