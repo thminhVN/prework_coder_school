@@ -4,7 +4,7 @@ minh-prework-coderschool is a Ruby on Rails blog application.
 
 Submitted by: Minh Tran
 
-Time spent: 1 hour spent in total
+Time spent: 3 hours spent in total
 
 URL: http://minh-prework-coderschool.herokuapp.com/
 
