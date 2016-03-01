@@ -1,11 +1,8 @@
-<div class="container">
-  <p id="notice"><%= notice %></p>
-  <h1>Minh's Blog</h1>
-  <h3>First app with Ruby on Rails</h3>
-  <% if @articles.present?%>
-    <%= render @articles %>
-  <% else %>
-    <p>There are no article containing the term(s) <%= params[:search] %>.</p>
-  <% end %>
-  <%= link_to 'New Article', new_article_path %>
-</div>
+<p id="notice"><%= notice %></p>
+<% if @articles.present?%>
+<%= render @articles %>
+<% else %>
+<p>There are no article containing the term(s) <%= params[:search] %>.</p>
+<% end %>
+<%= link_to 'New Article', new_article_path %>
+
