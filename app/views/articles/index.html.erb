@@ -1,8 +1,9 @@
 <p id="notice"><%= notice %></p>
+<%= link_to '+ New Article', new_article_path, :class=>'btn btn-primary btn-lg btn-add-new' %>
 <% if @articles.present?%>
 <%= render @articles %>
 <% else %>
 <p>There are no article containing the term(s) <%= params[:search] %>.</p>
 <% end %>
-<%= link_to 'New Article', new_article_path %>
+
 
